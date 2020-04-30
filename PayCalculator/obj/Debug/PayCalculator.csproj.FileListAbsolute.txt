@@ -1,0 +1,13 @@
+C:\Users\adil.souirite\source\repos\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe.config
+C:\Users\adil.souirite\source\repos\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe
+C:\Users\adil.souirite\source\repos\PayCalculator\PayCalculator\bin\Debug\PayCalculator.pdb
+C:\Users\adil.souirite\source\repos\PayCalculator\PayCalculator\bin\Debug\WebDriver.dll
+C:\Users\adil.souirite\source\repos\PayCalculator\PayCalculator\bin\Debug\WebDriver.xml
+C:\Users\adil.souirite\source\repos\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csprojAssemblyReference.cache
+C:\Users\adil.souirite\source\repos\PayCalculator\PayCalculator\obj\Debug\PayCalculator.Form1.resources
+C:\Users\adil.souirite\source\repos\PayCalculator\PayCalculator\obj\Debug\PayCalculator.Properties.Resources.resources
+C:\Users\adil.souirite\source\repos\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csproj.GenerateResource.cache
+C:\Users\adil.souirite\source\repos\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\adil.souirite\source\repos\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csproj.CopyComplete
+C:\Users\adil.souirite\source\repos\PayCalculator\PayCalculator\obj\Debug\PayCalculator.exe
+C:\Users\adil.souirite\source\repos\PayCalculator\PayCalculator\obj\Debug\PayCalculator.pdb
